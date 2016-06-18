@@ -5,7 +5,7 @@ meta_description: "Urban Dev, Code and beyond"
 
 markdown: kramdown
 highlighter: rouge
-logo: false
+logo: true
 paginate: 15
 baseurl: /
 domain_name: 'http://andrzejurban.github.io'
@@ -16,3 +16,6 @@ gems: [jekyll-paginate]
 url:            'http://andrzejurban.github.io'
 author:         'Andrzej Urban'
 
+footer-links:
+    twitter: andrzejurb
+    github: urbanand
