@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello blog!"
-date:   2016-06-06 00:18:00
+date:   2016-19-06 00:20:00
 categories: 'Initial stuff'
 ---
 
