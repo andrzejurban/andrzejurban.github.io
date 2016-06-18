@@ -16,6 +16,6 @@ gems: [jekyll-paginate]
 url:            'http://andrzejurban.github.io'
 author:         'Andrzej Urban'
 
-# footer-links:
-#     twitter: andrzejurb
-#     github: urbanand
+footer-links:
+    twitter: andrzejurb
+    github: urbanand
