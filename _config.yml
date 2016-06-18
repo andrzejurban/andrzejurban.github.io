@@ -1,9 +1,10 @@
 name: Urban Dev
 description: Code and beyond
+avatar: 'http://andrzejurban.github.io/avatar.jpg'
 meta_description: "Urban Dev, Code and beyond"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
