@@ -1,6 +1,6 @@
 name: Urban Dev
 description: Code and beyond
-avatar: 'http://andrzejurban.github.io/assets/images/profile.png'
+avatar: 'profile.png'
 meta_description: "Urban Dev, Code and beyond"
 
 markdown: kramdown
@@ -16,6 +16,6 @@ gems: [jekyll-paginate]
 url:            'http://andrzejurban.github.io'
 author:         'Andrzej Urban'
 
-footer-links:
-    twitter: andrzejurb
-    github: urbanand
+# footer-links:
+#     twitter: andrzejurb
+#     github: urbanand
