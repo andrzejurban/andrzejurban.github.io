@@ -15,3 +15,7 @@ gems: [jekyll-paginate]
 # Details for the RSS feed generator
 url:            'http://andrzejurban.github.io'
 author:         'Andrzej Urban'
+
+footer-links:
+    twitter: andrzejurb
+    github: urbanand
