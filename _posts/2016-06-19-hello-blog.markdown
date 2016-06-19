@@ -1,24 +1,11 @@
 ---
 layout: post
 title:  "Hello blog!"
-date:   2016-19-06 00:20:00
+date:   2016-19-06 11:20:00
 categories: 'Initial stuff'
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+The main reason for creation of this blog is the need to maintain my English writing skills at an acceptable level.
+I also needed a tool to help me organize the way I learn stuff. I think that the thought of having potential readers (event imaginary ones) 
+would make me dig a bit deeper into stuff and record the outcome more often.   
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
-
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
