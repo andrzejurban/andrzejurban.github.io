@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Hello blog!"
-date:   2016-06-19 11:20:00
-categories: 'Initial stuff'
+date:   2016-06-19 11:50:00
+categories: Bla
 ---
 
 The main reason for creation of this blog is the need to maintain my English writing skills at an acceptable level.
